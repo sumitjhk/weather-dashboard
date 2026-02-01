@@ -9,7 +9,7 @@ A modern, feature-rich weather dashboard built with React and Redux Toolkit. Tra
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](#)** *[(https://shiny-maamoul-40e35b.netlify.app/)]*
+🔗 **[View Live Demo](#)** *[https://agent-697f10ef404c65937820--shiny-maamoul-40e35b.netlify.app/]*
 
 ## 📸 Screenshots
 
