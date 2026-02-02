@@ -85,6 +85,9 @@ const Forecast = () => {
               );
             })}
           </select>
+          <p className="text-slate-500 text-sm mt-3">
+            You can see list of cities which are marked as favorites
+          </p>
         </div>
       )}
 
