@@ -9,11 +9,7 @@ A modern, feature-rich weather dashboard built with React and Redux Toolkit. Tra
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](#)** *(Add your Vercel deployment URL here)*
-
-## 📸 Screenshots
-
-*[Add screenshots of your dashboard here]*
+🔗 **[View Live Demo](#)** *[https://agent-697f10ef404c65937820--shiny-maamoul-40e35b.netlify.app/]*
 
 ## ✨ Features
 
